@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:health_stats_ui/app_properties/colors.dart';
 import 'package:health_stats_ui/app_properties/fonts.dart';
 
 class CardGrid extends StatelessWidget {
